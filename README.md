@@ -8,7 +8,7 @@ The dashboard drills down to individula year to visulaize each years data. Addit
 
 ![image](https://user-images.githubusercontent.com/64645859/135014229-2564a580-9d2e-48c2-99a7-aedb7acf4543.png)
 
-The dashboard even goes into bisection of US emplyment into Agrarian and Non Agrarian Employment as can se seen below.
+The dashboard even goes into bisection of US emplyment into Agrarian and Non Agrarian Employment as can be seen below.
 
 ![image](https://user-images.githubusercontent.com/64645859/135014638-04f9cc01-94a8-44e6-a8ee-2e6fb94b427b.png)
 
