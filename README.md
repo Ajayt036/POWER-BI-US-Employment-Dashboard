@@ -1,6 +1,6 @@
 # US-Employment-Data-Dashboard
 
-Employment Data dashboard covers the employment history of US population from 1950 to 2020. Data sets used in Dashboard are extracted from US Bureau of Labor statistics data base. This data base is prepared as per yearly/Monthly conducted CPS (Current population survey) by US Bureau of Labor statistics. The “Total Population” term used in dashboard means civilian noninstitutional population, which refers to people 16 years of age and older residing in the 50 States and the District of Columbia. 
+Employment Data dashboard covers the employment history of US population from 1950 to 2020. The Data sets used in Dashboard are extracted from US Bureau of Labor statistics data base. This data base is prepared as per yearly/Monthly conducted CPS (Current population survey) by US Bureau of Labor statistics. The “Total Population” term used in dashboard means civilian noninstitutional population, which refers to people 16 years of age and older residing in the 50 States and the District of Columbia. 
 
 ![image](https://user-images.githubusercontent.com/64645859/135014135-5d254b66-9ea1-4c17-a68a-9a38c8b882a8.png)
 
